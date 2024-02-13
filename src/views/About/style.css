@@ -1,0 +1,10 @@
+.swiper-pagination {
+    position: absolute;
+    /* top: 10%; */
+    left: 50%;
+    z-index: -111111111;
+    transform: translateX(0%);
+    scale: 1.45 !important;
+}
+
+
